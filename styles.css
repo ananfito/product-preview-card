@@ -121,6 +121,7 @@ img {
   font-family: var(--ff-montserrat);
   font-size: var(--ff-p);
   color: var(--neutral-clr-gray-blue);
+  text-decoration: line-through;
 
 }
 
