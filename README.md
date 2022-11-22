@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-css-grid-VHa9lno4Au](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-css-grid-VHa9lno4Au)
 - Live Site URL: [https://ananfito.github.io/product-preview-card](https://ananfito.github.io/product-preview-card)
 
 ## My process
@@ -67,7 +67,6 @@ Here's the excerpt for the HTML in this project that makes use of this element:
   <img src="./images/image-product-desktop.jpg" alt="perfume bottle resting on a table top">
 
 </picture>
-
 ```
 
 ### Useful resources
